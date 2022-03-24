@@ -1,9 +1,9 @@
 import time
 import random
 
-print('\nJeu de la fourchette !\nVous devez deviner un nombre entre 1 et 10')
+print('\nJeu de la fourchette !\nVous devez deviner un nombre entre 1 et 100')
 
-y = random.randint(1, 10)
+y = random.randint(1, 100)
 #print(str(y))
 
 time.sleep(3)
